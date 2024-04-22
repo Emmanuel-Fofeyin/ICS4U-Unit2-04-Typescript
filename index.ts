@@ -3,7 +3,7 @@
  *
  * author  Emmanuel FN
  * version 1.0
- * since   2024-03-19
+ * since   2024-04-21
  */
 import { EmmanuelStack } from './EmmanuelStack'
 
