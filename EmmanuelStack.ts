@@ -3,7 +3,7 @@
  *
  * author  Emmanuel FN
  * version 1.0
- * since   2024-03-26
+ * since   2024-04-21
  */
 
 export class EmmanuelStack {
