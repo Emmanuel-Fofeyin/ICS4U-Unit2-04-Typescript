@@ -73,7 +73,7 @@ export class EmmanuelStack {
     */
     public popItem() {
       let poppedItem = ""
-      if (this.stackAsList[0]) {
+      if (this.stackAsList.length > 0) {
         poppedItem = this.stackAsList[this.stackAsList.length - 1]
       } else {
         poppedItem = "nothing to remove"
