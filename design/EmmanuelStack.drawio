@@ -13,7 +13,7 @@
                 <mxCell id="4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="2" vertex="1">
                     <mxGeometry y="52" width="160" height="8" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="+ isEmpty(): boolean&#10;+ peak(): string&#10;+ size(): int&#10;+ showStack(): string&#10;+ clear()&#10;+ push(input)&#10;+ popItem(): string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+                <mxCell id="5" value="+ isEmpty(): boolean&#10;+ peak(): string&#10;+ size(): int&#10;+ showStack(): string&#10;+ clear()&#10;+ push(string)&#10;+ popItem(): string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
                     <mxGeometry y="60" width="160" height="110" as="geometry"/>
                 </mxCell>
             </root>
