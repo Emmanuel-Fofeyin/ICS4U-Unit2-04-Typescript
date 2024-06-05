@@ -64,7 +64,7 @@ export class EmmanuelStack {
     /*
     * pushes a string onto the stack
     */
-    public push(input) {
+    public push(input: string) {
       this.stackAsList.push(input)
     }
   
