@@ -18,7 +18,7 @@ export class EmmanuelStack {
     /*
     * checks if stack is empty.
     */
-    public get isEmpty() {
+    public get isEmpty(): boolean {
       return this.stackAsList.length == 0
     }
   
@@ -38,7 +38,7 @@ export class EmmanuelStack {
     /*
     * returns stack size
     */
-    public get size() {
+    public get size(): integer {
       return this.stackAsList.length
     }
     
@@ -82,4 +82,3 @@ export class EmmanuelStack {
       return poppedItem
     }
   }
-  
